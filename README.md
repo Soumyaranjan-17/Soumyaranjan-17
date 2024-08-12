@@ -1,5 +1,5 @@
-#Soumya Ranjan Sahoo
-##Web Developer
+# Soumya Ranjan Sahoo
+## Web Developer
 - 👋 Hi, I’m @Soumyaranjan-17
 - 👀 I’m interested in Web Developement & UI design
 - 🌱 I’m currently learning Java & JS
