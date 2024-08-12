@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Soumya Ranjan:
 🔭 I’m currently working on Full Stack Web Development <br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with My projects <br>🌱 I’m currently learning JavaScript and CSS<br>⚡ Fun fact is I sleep at night 
 
 
